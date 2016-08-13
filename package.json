@@ -1,0 +1,12 @@
+{
+  "name": "SmiskiBot",
+  "version": "0.0.1",
+  "private": "true",
+  "dependencies": {
+    "express": "4.14.0",
+    "jade": "1.11.0",
+    "stylus": "0.54.5",
+    "nib": "1.1.2",
+    "connect": "3.4.1"
+  }
+}
